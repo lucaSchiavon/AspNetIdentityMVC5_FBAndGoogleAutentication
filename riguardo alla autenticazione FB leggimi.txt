@@ -1,0 +1,2 @@
+logi FB funziona così:
+se si decide di loggarsi con FB la prima volta dopo essere stati dirottati verso FB ed aver ricevuto le credenziali si deve fornire uno username con cui la nostra applicazione associerà la autenticazione di FB con un utente della security asnet che verrà associato a tale autenticazione mediante il suo providerkey (si veda tabella [AspNetUserLogins])
